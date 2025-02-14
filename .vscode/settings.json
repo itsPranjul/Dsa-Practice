@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    },
+    "rust-analyzer.checkOnSave": false
+}
